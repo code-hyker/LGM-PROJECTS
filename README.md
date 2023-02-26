@@ -1,2 +1,1 @@
-# Todo-list
-An LGM project of creating a todo list
+# LGM PROJECTS (FEB 2023 INTERNSHIP)
