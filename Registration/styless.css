@@ -1,0 +1,11 @@
+* head{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background-image: linear-gradient(120deg,aqua 0%,grey 100%);
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+    min-height:10vh;
+}
